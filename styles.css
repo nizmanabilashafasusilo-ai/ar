@@ -791,7 +791,6 @@ section {
 }
 
 .gallery-1::before {
-    content: '📸';
     position: absolute;
     top: 50%;
     left: 50%;
@@ -800,7 +799,6 @@ section {
 }
 
 .gallery-2::before {
-    content: '💑';
     position: absolute;
     top: 50%;
     left: 50%;
@@ -809,7 +807,6 @@ section {
 }
 
 .gallery-3::before {
-    content: '💐';
     position: absolute;
     top: 50%;
     left: 50%;
@@ -818,7 +815,6 @@ section {
 }
 
 .gallery-4::before {
-    content: '💍';
     position: absolute;
     top: 50%;
     left: 50%;
